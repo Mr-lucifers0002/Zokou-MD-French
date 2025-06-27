@@ -1,5 +1,5 @@
 {
-  "name": "Zokou-2.0",
+  "name": "morningstar",
   "description": "bot whatsapp développé par djalega++",
   "keywords": [
     "bot",
@@ -13,7 +13,7 @@
   "stack": "container",
   "env": {
     "PREFIX": {
-      "description": "choisissez votre préfixe",
+      "description": "+",
       "value": "#",
       "required": true
     },
@@ -28,7 +28,7 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Un nom pour votre bot",
+      "description": "𓆩𝐌ꝛ 𝐋𝐔𝐂𝐈𝐋𝐅𝐄𝐑᭄  MO𝐑N𝐈G𝐒T𝚫𝐑 』",
       "value": "Zokou-MD",
       "required": false
     },
@@ -44,7 +44,7 @@
     },
     "MODE_PUBLIC": {
       "description": "oui pour le mode public ou non pour le mode privé(Dans ce cas, vous seul  utiliserez le bot)",
-      "value": "oui",
+      "value": "non",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -61,19 +61,19 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "veuillez renseigner votre id de session",
-      "value": "",
+      "description": "efbfb4dc64",
+      "value": "efbfb4dc64",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Votre nom",
+      "description": "Lucifer",
       "required": false,
       "value": "Djalega++"
     },
     "OWNER_NUMBER": {
       "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
       "required": false,
-      "value": "22891733300"
+      "value": "50932464653"
     },
     "WARN_COUNT": {
       "description": "il s'agit de nombre d'avertissement limite",
@@ -93,7 +93,7 @@
     "ANTI_COMMAND_SPAM": {
       "description": "Ajoutez un temps de refroidissement d'une minute apres chaque commande pour les autres utilisateur(pour activer choississez *oui*)",
       "required": false,
-      "value": "non"
+      "value": "oui"
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Mettez oui si vous voulez que les messages supprimer par les autres utilisateurs vous sois envoyez en pv",
@@ -123,7 +123,8 @@
     "STICKER_PACKNAME": {
       "description": "Nom du pack de stickers",
       "required": false,
-      "value": "made with ❤; Zokou-MD"
+      "value": "𓆩𝐌ꝛ 𝐋𝐔𝐂𝐈𝐋𝐅𝐄𝐑᭄  MO𝐑N𝐈G𝐒T𝚫𝐑 』𝕺𝖓 𝖎𝖓𝖘𝖕𝖊𝖈𝖙𝖊, 𝖔𝖓 𝖕𝖚𝖗𝖌𝖊, 𝖔𝖓 𝖌𝖆𝖗𝖉𝖊 𝖑𝖊𝖘 𝖒𝖊𝖎𝖑𝖑𝖊𝖚𝖗𝖘.
+"
     }
   },
   "formation": {
